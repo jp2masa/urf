@@ -261,6 +261,8 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
+  height: 100%;
+  text-align: center;
   width: 100%;
 }
 
@@ -269,6 +271,12 @@ Full-Width Styles
   max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+#demobutton
+{
+  background-color: lightblue;
+  border-radius: 4px;
 }
 
 #forkme_banner {
