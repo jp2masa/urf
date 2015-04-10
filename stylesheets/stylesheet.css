@@ -275,8 +275,11 @@ Full-Width Styles
 
 #demobutton
 {
-  background-color: lightblue;
+  background-color: #007EDF;
   border-radius: 4px;
+  color: white;
+  padding: 16px;
+  text-decoration: none;
 }
 
 #forkme_banner {
