@@ -261,10 +261,7 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-  bottom: 0px;
   height: 100%;
-  position: absolute;
-  text-align: center;
   width: 100%;
 }
 
@@ -371,6 +368,9 @@ Full-Width Styles
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
+  position: absolute;
+  text-align: center;
+  top: 173px;
 }
 
 #main_content {
