@@ -1,3 +1,3 @@
-# URF v1.0 Website
+# U.R.F. Matches Website
 
-Website about the URF Project develope for the Riot Games API Challenge.
+Website about the URF Project developed for the Riot Games© API Challenge.
